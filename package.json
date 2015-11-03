@@ -1,6 +1,6 @@
 {
-  "name": "passport-persona",
-  "version": "0.1.8",
+  "name": "persona-pass",
+  "version": "0.2.0",
   "description": "Mozilla Persona authentication strategy for Passport.",
   "keywords": ["passport", "persona", "browserid", "auth", "authn", "authentication", "identity"],
   "repository": {
@@ -15,13 +15,13 @@
     "email": "jaredhanson@gmail.com",
     "url": "http://www.jaredhanson.net/"
   },
-  "contributors": [ 
+  "contributors": [
     { "name": "Jared Hanson", "email": "jaredhanson@gmail.com" },
     { "name": "Leo McArdle", "email": "leomcardle@gmail.com" }
   ],
   "licenses": [ {
     "type": "MIT",
-    "url": "http://www.opensource.org/licenses/MIT" 
+    "url": "http://www.opensource.org/licenses/MIT"
   } ],
   "main": "./lib/passport-persona",
   "dependencies": {
