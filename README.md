@@ -6,6 +6,8 @@ This is a fork of [Passport](https://github.com/jaredhanson/passport). I made it
 
 # Passport-Persona
 
+[![Build Status](https://secure.travis-ci.org/Morgul/passport-persona.png)](http://travis-ci.org/Morgul/passport-persona)
+
 [Passport](https://github.com/Morgul/passport) strategy for authenticating
 with [Mozilla Persona](https://login.persona.org/).
 
@@ -65,10 +67,8 @@ For a complete, working example, refer to the [signin example](https://github.co
 
 ## Tests
 
-    $ npm install --dev
+    $ npm install
     $ make test
-
-[![Build Status](https://secure.travis-ci.org/Morgul/passport-persona.png)](http://travis-ci.org/Morgul/passport-persona)
 
 ## Credits
 
