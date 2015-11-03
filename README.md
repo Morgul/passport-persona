@@ -3,13 +3,11 @@
 This is a fork of [Passport](https://github.com/jaredhanson/passport). I made it because @jaredhanson hasn't been 
 maintaining the original project. Feel free to submit pull requests, etc and I will publish them.
 
-This project is published on npm under `persona-pass`.
-
 ----
 
 # Passport-Persona
 
-[Passport](https://github.com/jaredhanson/passport) strategy for authenticating
+[Passport](https://github.com/Morgul/passport) strategy for authenticating
 with [Mozilla Persona](https://login.persona.org/).
 
 This module lets you authenticate using Mozilla Persona in your Node.js
@@ -26,7 +24,7 @@ Applications wishing to verify assertions locally should use
 
 ## Install
 
-    $ npm install passport-persona
+    $ npm install persona-pass
 
 ## Usage
 
@@ -64,19 +62,21 @@ application:
 
 ## Examples
 
-For a complete, working example, refer to the [signin example](https://github.com/jaredhanson/passport-persona/tree/master/examples/signin).
+For a complete, working example, refer to the [signin example](https://github.com/Morgul/passport-persona/tree/master/examples/signin).
 
 ## Tests
 
     $ npm install --dev
     $ make test
 
-[![Build Status](https://secure.travis-ci.org/jaredhanson/passport-persona.png)](http://travis-ci.org/jaredhanson/passport-persona)
+[![Build Status](https://secure.travis-ci.org/Morgul/passport-persona.png)](http://travis-ci.org/Morgul/passport-persona)
 
 ## Credits
 
   - [Jared Hanson](http://github.com/jaredhanson)
   - [Leo McArdle](https://github.com/LeoMcA)
+  - [Chris Case](https://github.com/Morgul)
+  - [Jonas Jensen](https://github.com/jonasfj)
 
 ## License
 
