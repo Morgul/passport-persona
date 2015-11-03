@@ -1,6 +1,6 @@
 ----
 
-This is a fork of [Passport](https://github.com/jaredhanson/passport). I made it because of lack of maintenence in the original project. Feel free to submit pull requests, etc and I will publish them.
+This is a fork of the [Passport Persona Strategy](https://github.com/jaredhanson/passport-persona). I made it because of lack of maintenence in the original project. Feel free to submit pull requests, etc and I will publish them.
 
 ----
 
@@ -8,7 +8,7 @@ This is a fork of [Passport](https://github.com/jaredhanson/passport). I made it
 
 [![Build Status](https://secure.travis-ci.org/Morgul/passport-persona.png)](http://travis-ci.org/Morgul/passport-persona)
 
-[Passport](https://github.com/Morgul/passport) strategy for authenticating
+[Passport](https://github.com/jaredhanson/passport) strategy for authenticating
 with [Mozilla Persona](https://login.persona.org/).
 
 This module lets you authenticate using Mozilla Persona in your Node.js
