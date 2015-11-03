@@ -1,7 +1,6 @@
 ----
 
-This is a fork of [Passport](https://github.com/jaredhanson/passport). I made it because @jaredhanson hasn't been 
-maintaining the original project. Feel free to submit pull requests, etc and I will publish them.
+This is a fork of [Passport](https://github.com/jaredhanson/passport). I made it because of lack of maintenence in the original project. Feel free to submit pull requests, etc and I will publish them.
 
 ----
 
